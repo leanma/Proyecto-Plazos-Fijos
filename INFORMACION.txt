@@ -1,0 +1,32 @@
+El banco Mesopotamia necesita procesar los plazos fijos constituidos en el mismo.
+
+Se dispone de un archivo binario de cuentas, ordenado por nro. de cuenta, cuyo nombre será proporcionado a través de un argumento del programa.
+Su estructura es la sig.:
+cuenta: Entero
+cliente: Texto
+saldo: Real
+
+Se dispone también de un archivo de texto de longitud variable con los plazos fijos. 
+El nombre de este también es proporcionado desde un argumento del programa. Este archivo está ordenado por nro. de plazo fijo, no por nro. de cuenta, pues se fue generando a medida que se creaban los plazos fijos.
+Su estructura es la sig.:
+nroPF: Entero
+cuenta: Entero
+monto: Real
+interesAnual: Real
+fechaConstitución: Fecha
+dias: Entero
+
+Debe actualizar el archivo de cuentas en base al de los plazos fijos. 
+Debe acreditar en la cuenta el monto de constitución del plazo fijo, sumado a los intereses generados. Esto siempre y cuando el plazo haya vencido. 
+Venció si ya pasaron los días del plazo, tomando como fecha actual, la fecha del proceso, que se envía por argumento del programa.
+El interés se calcula de la sig. manera:
+
+Monto  % Interés  Fecha constitución  Días | Fecha Venc.  Retorno a la cuenta
+$2500  40%	   05/3/2019	     	 30     4/4/2019     $2500 +  30/365 * 40/100 * $2500 = $2582,19
+
+Tenga en cuenta que, por motivos de performance, no debe leer los registros de los archivos más de una vez. 
+El archivo de cuentas no puede cargarse en memoria en su totalidad. Sí puede, y debe cargar el archivo de plazos fijos en un vector generado con memoria dinámica. 
+Luego debe ordenarlo por nro. de cuenta, creando y usando una función ordenar genérica.
+Luego, utilice el algoritmo Merge para el proceso de actualización.
+
+Realice esto en las funciones que están declaradas debajo de la función main, que tienen el sufijo “_ALU”.

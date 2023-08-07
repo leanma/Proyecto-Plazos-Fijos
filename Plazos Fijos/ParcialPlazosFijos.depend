@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1687043225 source:c:\onedrive\onedrive - universidad nacional de la matanza\unlam\programacion\examenesenmaquina\2023-06-22_plazosfijos_entregable\parcialplazosfijostopicos\main.c
+	<stdio.h>
+	"../Fecha/Fecha.h"
+	"../SolucionParcialPlazosFijosTopicos/SolucionParcialPlazosFijos.h"
+
+1687034248 c:\onedrive\onedrive - universidad nacional de la matanza\unlam\programacion\examenesenmaquina\2023-06-22_plazosfijos_entregable\fecha\fecha.h
+	<stdbool.h>
+
+1687038941 c:\onedrive\onedrive - universidad nacional de la matanza\unlam\programacion\examenesenmaquina\2023-06-22_plazosfijos_entregable\solucionparcialplazosfijostopicos\solucionparcialplazosfijos.h
+	"PlazoFijo.h"
+
+1687020626 c:\onedrive\onedrive - universidad nacional de la matanza\unlam\programacion\examenesenmaquina\2023-06-22_plazosfijos_entregable\solucionparcialplazosfijostopicos\plazofijo.h
+	"../Fecha/Fecha.h"
+
+1687043225 source:c:\users\laboratorios\desktop\parcial\2023-06-22_plazosfijos_entregable\2023-06-22_plazosfijos_entregable\parcialplazosfijostopicos\main.c
+	<stdio.h>
+	"../Fecha/Fecha.h"
+	"../SolucionParcialPlazosFijosTopicos/SolucionParcialPlazosFijos.h"
+
+1687034248 c:\users\laboratorios\desktop\parcial\2023-06-22_plazosfijos_entregable\2023-06-22_plazosfijos_entregable\fecha\fecha.h
+	<stdbool.h>
+
+1687038941 c:\users\laboratorios\desktop\parcial\2023-06-22_plazosfijos_entregable\2023-06-22_plazosfijos_entregable\solucionparcialplazosfijostopicos\solucionparcialplazosfijos.h
+	"PlazoFijo.h"
+
+1687472577 c:\users\laboratorios\desktop\parcial\2023-06-22_plazosfijos_entregable\2023-06-22_plazosfijos_entregable\solucionparcialplazosfijostopicos\plazofijo.h
+	"../Fecha/Fecha.h"
+
+1687734989 source:c:\users\leand\documents\unlam\a—o 4\cuatrimestre 1\topicos de programacion\parcial\2023-06-22_plazosfijos_entregable\2023-06-22_plazosfijos_entregable\parcialplazosfijostopicos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"../Fecha/Fecha.h"
+	"../SolucionParcialPlazosFijosTopicos/SolucionParcialPlazosFijos.h"
+
+1687719613 c:\users\leand\documents\unlam\a—o 4\cuatrimestre 1\topicos de programacion\parcial\2023-06-22_plazosfijos_entregable\2023-06-22_plazosfijos_entregable\fecha\fecha.h
+	<stdbool.h>
+
+1687038941 c:\users\leand\documents\unlam\a—o 4\cuatrimestre 1\topicos de programacion\parcial\2023-06-22_plazosfijos_entregable\2023-06-22_plazosfijos_entregable\solucionparcialplazosfijostopicos\solucionparcialplazosfijos.h
+	"PlazoFijo.h"
+
+1687472577 c:\users\leand\documents\unlam\a—o 4\cuatrimestre 1\topicos de programacion\parcial\2023-06-22_plazosfijos_entregable\2023-06-22_plazosfijos_entregable\solucionparcialplazosfijostopicos\plazofijo.h
+	"../Fecha/Fecha.h"
+
+1687823598 source:c:\users\leand\documents\unlam\a—o 4\cuatrimestre 1\topicos de programacion\parcial\2023-06-22_plazosfijos_entregable\2023-06-22_plazosfijos_entregable 2\parcialplazosfijostopicos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"../Fecha/Fecha.h"
+	"../SolucionParcialPlazosFijosTopicos/SolucionParcialPlazosFijos.h"
+
+1687719613 c:\users\leand\documents\unlam\a—o 4\cuatrimestre 1\topicos de programacion\parcial\2023-06-22_plazosfijos_entregable\2023-06-22_plazosfijos_entregable 2\fecha\fecha.h
+	<stdbool.h>
+
+1687038941 c:\users\leand\documents\unlam\a—o 4\cuatrimestre 1\topicos de programacion\parcial\2023-06-22_plazosfijos_entregable\2023-06-22_plazosfijos_entregable 2\solucionparcialplazosfijostopicos\solucionparcialplazosfijos.h
+	"PlazoFijo.h"
+
+1687472577 c:\users\leand\documents\unlam\a—o 4\cuatrimestre 1\topicos de programacion\parcial\2023-06-22_plazosfijos_entregable\2023-06-22_plazosfijos_entregable 2\solucionparcialplazosfijostopicos\plazofijo.h
+	"../Fecha/Fecha.h"
+
+1691176224 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\plazos fijos\2023-06-22_plazosfijos_entregable 2\parcialplazosfijostopicos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1687719613 c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\plazos fijos\2023-06-22_plazosfijos_entregable 2\fecha\fecha.h
+	<stdbool.h>
+
